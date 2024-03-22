@@ -1,5 +1,5 @@
 # entrega_python
 
-**Estudiante: ** Isidro Felipe Iveli
+**Estudiante:** Isidro Felipe Iveli
 
-**Número de Legajo: ** 22186/0
+**Número de Legajo:** 22186/0
